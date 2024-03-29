@@ -1,11 +1,4 @@
-Open sidebar
-ChatGPT 3.5
-
-SMM
-desription for a git repository for simon project
-
-ChatGPT
-Repository Name: simon-game
+ simon-game
 
 Description:
 The simon-game repository hosts the source code and related files for a digital implementation of the classic electronic memory game, Simon. Simon is a game of pattern recognition where players must replicate increasingly complex sequences of lights and sounds.
