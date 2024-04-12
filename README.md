@@ -17,19 +17,4 @@ Version Control: Utilizes Git for version control, allowing collaborative develo
 Contributions:
 Contributions to the simon-game repository are welcomed from developers of all skill levels. Whether it's fixing bugs, enhancing existing features, or adding new functionalities, contributions are vital for the project's growth and improvement.
 
-License:
-The simon-game repository is licensed under the MIT License, granting users the freedom to use, modify, and distribute the software according to the terms specified in the license agreement.
 
-Acknowledgments:
-We extend our gratitude to the creators of the original Simon game for inspiring this digital adaptation, as well as to the open-source community for their valuable contributions and support.
-
-Note: This description provides a high-level overview of the simon-game repository and its contents. Additional details and specifications may be found within the repository's documentation and source code.
-
-
-
-
-
-Message ChatGPT…
-
-ChatGPT can make mistakes. Consider checking important information.
-ChatGPT
